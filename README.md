@@ -8,7 +8,7 @@ Python code used to create and validate 20-years net shortwave and net radiation
 net-radiation-europe-pipeline/
 ├── README.md
 ├── LICENSE
-├── environment.yml
+├── environment.yaml
 │
 ├── 01_data_acquisition/
 │   ├── download_fluxnet.ipynb
